@@ -7,12 +7,12 @@ This project will be the total of your final grade. I expect that you invest tim
 1. Before March 31st, 8:00 pm: Register
    here https://docs.google.com/spreadsheets/d/1esLhqXzE-uFGGU4a3ZFHzX_jYDnjrAjduWHu_HHIDRA/edit?usp=sharing
 
-2. By Saturday, April 15th, 8:00 am: Share the final paper (on overleaf) with us for review.
+2. By Saturday, April 22nd, 8:00 am: Share the final paper (on overleaf) with us for review.
 
-3. By Monday, April 17th : We will share with you our feedback, incoporate it and submit your paper, with code link
+3. By Monday, April 24th : We will share with you our feedback, incoporate it and submit your paper, with code link
    on [Openreview](https://openreview.net/).
 
-4. By Sunday, April 24th: your paper should be upload openreview. Share the link with us for the final grade.
+4. By Sunday, June 1rs: your paper should be upload openreview. Share the link with us for the final grade.
 
 NB: For each team, I expect one mail confirming that you did each step of the process with your partner as CC.
 
